@@ -1,0 +1,23 @@
+{
+  "name": "classe",
+  "version": "1.0.0",
+  "description": "A simple class building function for JavaScript that supports multiple inheritance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobFischer/Classe.git"
+  },
+  "keywords": [
+    "class",
+    "multiple inheritance"
+  ],
+  "author": "Jacob Fischer <jacob.t.fischer@gmail.com> (jacobfischer.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobFischer/Classe/issues"
+  },
+  "homepage": "https://github.com/JacobFischer/Classe#readme"
+}
